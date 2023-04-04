@@ -255,6 +255,7 @@ Connection and Basic Test
 
 </div>
 <div>
+<img src="/img/Test1.png" class="m-40 h-40 rounded shadow" />
 </div>
 </div>
 
